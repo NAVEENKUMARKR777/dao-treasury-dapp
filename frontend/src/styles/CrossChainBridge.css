@@ -1,0 +1,13 @@
+/* Styles for the CrossChainBridge component */
+.cross-chain-bridge {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.cross-chain-bridge .transfer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}

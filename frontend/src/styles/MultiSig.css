@@ -1,0 +1,10 @@
+/* Styles for the MultiSig component */
+.multi-sig {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.multi-sig .signers {
+    margin-top: 10px;
+}

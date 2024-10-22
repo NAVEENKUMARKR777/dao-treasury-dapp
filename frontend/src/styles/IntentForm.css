@@ -1,0 +1,19 @@
+/* Styles for the IntentForm component */
+.intent-form {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.intent-form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.intent-form input,
+.intent-form select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
